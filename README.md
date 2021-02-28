@@ -5,7 +5,7 @@ Template repository for the Jetpack Compose [#AndroidDevChallenge](https://devel
 ## :scroll: Description
 A submission for the #AndroidDevChallenge Jetpack Compose.
 
-Week 1. A puppy adoption sample app demonstrating building UI with compose.
+Week #1 - Puppy adoption app
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
