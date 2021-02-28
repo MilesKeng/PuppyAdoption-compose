@@ -148,7 +148,6 @@ fun PuppyItem(puppy: Puppy, goDetail: (Puppy) -> Unit) {
 
 @Composable
 fun DetailPage(puppy: Puppy, goBack: () -> Unit) {
-
     Scaffold(
         backgroundColor = MaterialTheme.colors.background,
         topBar = {
